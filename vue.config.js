@@ -2,5 +2,6 @@ module.exports = {
   "transpileDependencies": [
     "vuetify"
   ],
-  publicPath: '/password-generator-vue/'
+  publicPath: '/password-generator-vue/',
+  
 }

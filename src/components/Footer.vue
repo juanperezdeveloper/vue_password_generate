@@ -1,6 +1,6 @@
 <template>
     <v-footer app>
-      <span>&copy; {{ new Date().getFullYear() }} JzLim</span>
+      <span>&copy; {{ new Date().getFullYear() }} BrightStar1120</span>
     </v-footer>
 </template>
 
